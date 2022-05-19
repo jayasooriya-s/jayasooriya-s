@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayasooriya-s
-- 👀 I’m interested in corss platfor application
+- 👀 I’m interested in corss platform application
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter apps
 - 📫 How to reach me sjsooriya96@gmail.com
