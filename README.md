@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayasooriya-s
-- 👀 I’m interested in corss platform application
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter apps
+- 👀 FlullStack CLoud
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me sjsooriya96@gmail.com
 
 <!---
